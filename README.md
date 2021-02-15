@@ -1,4 +1,4 @@
-# Interaction Prediction between Molecules and Metabolic Pathways with ANNs
+<divalign = "center"># Interaction Prediction between Molecules and Metabolic Pathways with ANNs</div>
 <hr />
 #<h3>Overview</h3>
 In this project, the interaction of a set of molecules with specifications
