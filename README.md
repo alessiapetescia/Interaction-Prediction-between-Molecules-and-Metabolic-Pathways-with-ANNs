@@ -1,4 +1,4 @@
-<divalign = "center"># Interaction Prediction between Molecules and Metabolic Pathways with ANNs</div>
+<divalign = "center"><h1> Interaction Prediction between Molecules and Metabolic Pathways with ANNs</h1></div>
 <hr />
 #<h3>Overview</h3>
 In this project, the interaction of a set of molecules with specifications
