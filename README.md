@@ -1,5 +1,5 @@
-Interaction Prediction between Molecules and Metabolic Pathways with ANNs
-<hr />
+<h1>Interaction Prediction between Molecules and Metabolic Pathways with ANNs</h1>
+
 <h3>Overview</h3>
 In this project, the interaction of a set of molecules with specifications
 Metabolic pathways is predicted using two types of Artificial Neural
