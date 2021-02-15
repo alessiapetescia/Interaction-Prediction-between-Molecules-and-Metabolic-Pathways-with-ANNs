@@ -45,8 +45,8 @@ non-null in order to learn effective embedding at the same time
 to LSTM training.
 
 <h3>4) Methodology</h3>
-Two different methodologies were followed for the two methaboloc pathways, SR and NR, in oder to assess the effectiveness of both CNN and LSTM models and Bayesian optimized models. 
+Two different working lines were followed for the two methabolic pathways, SR and NR, in oder to choose the best architectures and models. In the end, the founded models were applied to all the 4 datasets. 
 <h4>SR</h4>
 Several CNN and LSTMS models were used, in order to find a benchmark model for each of the approaches, finally applying them on the test data. Here, unbalanced data are managed by testing the effect on results of both oversampling and weighted classes techniques are applied.
 <h4>NR</h4>
-Here, only CNN models are applied, after undergoing a Bayesian Optimizations oftthe hyperparameters. First, a reduction of the search-space was was carried out, by trying different architectures evaluated on a 3-fold cross validation. Following, the resulting best architecture was optimized using bayesian Optimization. Here, unbalanced data were managed assessing the effectiveness of oversampling, weighted classes and SMOTE techqniques.
+Here, only CNN models are applied, after undergoing a Bayesian Optimizations of the hyperparameters. First, a reduction of the search-space was was carried out, by trying different architectures evaluated on a 3-fold cross validation. Following, the resulting best architecture was optimized using bayesian Optimization. Here, unbalanced data were managed assessing the effectiveness of oversampling, weighted classes and SMOTE techqniques.
